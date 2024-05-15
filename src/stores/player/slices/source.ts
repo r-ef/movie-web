@@ -1,4 +1,4 @@
-import { ScrapeMedia } from "@movie-web/providers";
+import { ScrapeMedia } from "@ermm-movies/providers";
 
 import { MakeSlice } from "@/stores/player/slices/types";
 import {

@@ -1,4 +1,4 @@
-import { Stream } from "@movie-web/providers";
+import { Stream } from "@ermm-movies/providers";
 
 import { RULE_IDS, setDomainRule } from "@/backend/extension/messaging";
 
