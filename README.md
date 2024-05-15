@@ -1,4 +1,4 @@
-
+<!-- 
 <p align="center"><img align="center" width="280" src="./.github/logo-dark.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/logo-light.svg#gh-light-mode-only"/></p>
 <p align="center">
@@ -64,4 +64,7 @@ A simple guide has been written to assist in hosting your own instance of ermm-m
 This project would not be possible without our amazing contributors and the community. Thanks a lot! Keep rocking 🍻.
 
 [![Contributors](https://contrib.rocks/image?repo=ermm-movies/ermm-movies)](https://github.com/ermm-movies/ermm-movies/graphs/contributors)
+ -->
 
+
+hey :3
