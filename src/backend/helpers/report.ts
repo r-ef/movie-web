@@ -1,4 +1,4 @@
-import { ScrapeMedia } from "@ermm-movies/providers";
+import { ScrapeMedia } from "@movie-web/providers";
 import { nanoid } from "nanoid";
 import { ofetch } from "ofetch";
 import { useCallback } from "react";

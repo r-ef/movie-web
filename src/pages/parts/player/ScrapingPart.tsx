@@ -1,4 +1,4 @@
-import { ProviderControls, ScrapeMedia } from "@ermm-movies/providers";
+import { ProviderControls, ScrapeMedia } from "@movie-web/providers";
 import classNames from "classnames";
 import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";

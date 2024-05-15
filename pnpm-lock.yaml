@@ -3050,7 +3050,7 @@ packages:
     engines: {node: '>= 14'}
     dev: false
 
-  /@ermm-movies/providers@2.3.0:
+  /@movie-web/providers@2.3.0:
     resolution: {integrity: sha512-jr3C9alAODEyxgWSBMZ6LlrubrZCfpraTuunf7sPpY19WcV8rHbfz1kxeLdBXC2BqPfgQmipVr+KsXvCQqKhXw==}
     requiresBuild: true
     dependencies:

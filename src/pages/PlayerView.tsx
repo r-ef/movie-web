@@ -1,4 +1,4 @@
-import { RunOutput } from "@ermm-movies/providers";
+import { RunOutput } from "@movie-web/providers";
 import { useCallback, useEffect, useState } from "react";
 import {
   Navigate,
